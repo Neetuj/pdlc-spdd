@@ -12,6 +12,8 @@ organized around three phases of the product lifecycle: Discover, Execute, Deliv
 
 ## The Three Phases
 
+![Product Lifecycle Diagram](assets/lifecycle-diagram.svg)
+
 Product management is a continuous loop. Every product cycles through these
 three phases repeatedly. Every Deliver phase creates new market data that
 feeds back into the next Discover cycle.
