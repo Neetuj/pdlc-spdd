@@ -1,6 +1,5 @@
 ---
 title: "Win-Loss Analysis Interview Synthesis"
-role: PLM
 stage: discovery
 activity: "win-loss analysis"
 goal: "Synthesize win-loss interview notes into patterns that inform positioning, pricing, and product gaps"

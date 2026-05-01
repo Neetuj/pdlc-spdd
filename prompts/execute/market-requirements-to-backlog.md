@@ -1,6 +1,5 @@
 ---
 title: "Market Requirements to Backlog Stories"
-role: TPM
 stage: define
 activity: "market requirements"
 goal: "Transform market problems and customer interviews into well-formed backlog items with clear acceptance criteria"

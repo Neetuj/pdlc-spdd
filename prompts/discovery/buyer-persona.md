@@ -1,6 +1,5 @@
 ---
 title: "Buyer Persona Definition"
-role: PMM
 stage: define
 activity: "buyer persona"
 goal: "Define a crisp buyer persona that aligns sales messaging, content strategy, and positioning"

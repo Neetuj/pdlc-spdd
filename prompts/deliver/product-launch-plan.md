@@ -1,6 +1,5 @@
 ---
 title: "Product Launch Plan"
-role: PMM
 stage: launch
 activity: "product launch"
 goal: "Generate a structured launch plan covering messaging, channels, enablement, and success metrics"

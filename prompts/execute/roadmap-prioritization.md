@@ -1,6 +1,5 @@
 ---
 title: "Roadmap Prioritization"
-role: TPM
 stage: build
 activity: "roadmap prioritization"
 goal: "Score and sequence candidate features into a defensible stakeholder-ready roadmap slice"
